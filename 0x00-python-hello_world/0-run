@@ -1,3 +1,2 @@
 #!/bin/bash
-python3 $PYFILE[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D/usr/bin/python3 $PYFILE
-
+python3 $PYFILE
